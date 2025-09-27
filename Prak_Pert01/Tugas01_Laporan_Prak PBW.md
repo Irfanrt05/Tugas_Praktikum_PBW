@@ -62,7 +62,8 @@ dasar-dasar penggunaan git dan mempelajari cara membuat repository di github
 
 ---
 ## Bukti SS Program
-<img width="1913" height="1199" alt="Screenshot 2025-09-26 100855" src="https://github.com/user-attachments/assets/10628bdb-865c-4812-95dc-82821809e863" />
+<img width="1913" height="1199" alt="Screenshot 2025-09-26 100855" src="https://github.com/user-attachments/assets/e2805550-dfb6-478d-ad9a-173079cdccf2" />
+
 
 ## Kesimpulan
 Dari praktikum ini kita mengetahui cara menginstall git, membuat repository, melakukan commit, dan menghubungkan repository lokal ke Github.
