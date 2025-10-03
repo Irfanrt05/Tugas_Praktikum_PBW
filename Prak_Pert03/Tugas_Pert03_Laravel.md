@@ -31,7 +31,31 @@ membuat file view, dan menjalankan server development lokal.
    ```bash
    http://127.0.0.1:8000
 
-5. 
+5. Buka folder LaraPress menggunakan VS Code dan buka file routes/web.php
+   ```bash
+   use Illuminate\Support\Facades\Route;
+   Route::get('/', function () {
+   return view('welcome');
+   });
+
+6. Mengubah file view di resources/views/welcome.blade.php dan di ganti dengan kode
+   ```bash
+   
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Selamat Datang di LaraPress</title>
+    </head>
+    <body>
+        <h1>Selamat Datang di Blog LaraPress</h1>
+        <p>Ini adalah halaman utama dari aplikasi blog kita.</p>
+    </body>
+    </html>
+
+7. Simpan file  welcome.blade.php dan refresh browser http://127.0.0.1:8000
+   
+
+
    
   
 
