@@ -1,4 +1,5 @@
 # Laporan Praktikum Pemrograman Berbasis Web
+
 ---
 ## Identitas
 - **Nama**            : Muhammad Irfan Hakim
@@ -12,3 +13,5 @@ membuat file view, dan menjalankan server development lokal.
 
 ---
 ## Langkah Pembelajaran
+1. Menjalankan perintah untuk instalasi Laravel
+   
